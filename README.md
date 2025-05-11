@@ -3,7 +3,7 @@
 
 This project is developed under the **Digital Egypt Pioneers Initiative (DEPI)** as a practical application of the Data Science curriculum. The main goal is to predict the most suitable treatment for heart disease patients based on clinical and demographic data using machine learning models.
 
-🔗 **GitHub Repository**: [github.com/rezk1834/DEPI](https://github.com/rezk1834/DEPI)
+🔗 **GitHub Repository**: (https://github.com/MoustafaAliAshour/Healt_Care_DEPi)
 
 ---
 
